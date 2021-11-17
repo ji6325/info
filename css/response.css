@@ -82,9 +82,9 @@
 }
 
 @media all and (max-width:490px){
-    #wrap #main #section1 .wrap .gap .container .main-box {position:relative;width:300px;height:300px;}
-    #wrap #main #section1 .wrap .gap .container .main-box .box {width:300px;height:300px;}
-    #wrap #main #section1 .wrap .gap .container .main-box .text-box {width:300px;height:80px;padding:60px 0;}
+    #wrap #main #section1 .wrap .gap .container .main-box {position:relative;width:250px;height:250px;}
+    #wrap #main #section1 .wrap .gap .container .main-box .box {width:250px;height:250px;}
+    #wrap #main #section1 .wrap .gap .container .main-box .text-box {width:250px;height:80px;padding:50px 0;}
     #wrap #main #section1 .wrap .gap .container .main-box .text-box p {padding:10px 0;font-size:20px;font-weight: 600;}
 
     #wrap #main #section2 .wrap {max-width:400px;}
